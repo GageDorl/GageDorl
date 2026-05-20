@@ -24,4 +24,4 @@ Some of my more recent projects are included below:
 * [webdevsociety Site](https://web-design-development-society.github.io/webdevsociety/) - A site made to help the webdevsociety of BYUI have some public information available to those who are interested in it
 * [sp4cew4lk4](https://sp4cew4lk4.net/) - A website built for a budding content creator who hopes to sell FLStudio plugins and gain space in the content creation industry
 
-[![GageDorl's GitHub stats](./profile/stats.svg)
+![GageDorl's GitHub stats](./profile/stats.svg)
